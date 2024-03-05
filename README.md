@@ -1,0 +1,1 @@
+BlackShip is intended to serve as a logistics website. The site is mainly static for now, as its still under development. The intension is to create a dynamic website for freight and local shipment of goods and services. More still to come as i make new improvement in the project. yYour valuable insight will be much appreciated.
